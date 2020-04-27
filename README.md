@@ -6,4 +6,5 @@ Lora用來作為一種傳輸方式，在物聯網中是一個不錯的方式，�
 這裡會分為 receiver 和 sender
 ### 此lora晶片為REYAX rylr896
 
-### https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
+### LORA API
+https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
