@@ -9,7 +9,7 @@ Lora用來作為一種傳輸方式，在物聯網中是一個不錯的方式，�
    (2)Gateway
    
    (3)Network Server
-[image]
+![image](https://github.com/howard31622/Lora/blob/master/LoRaWAN.jpg)(referenc:https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf)
 ### 此lora晶片為REYAX rylr896
   1.在這個之中只能點對點做傳輸
   
